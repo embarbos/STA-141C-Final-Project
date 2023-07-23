@@ -1,0 +1,14 @@
+1. Clean dataset
+2. Prelim MLR
+    - Analysis
+3. Subset MLR (potentially better fit)
+    - Analysis
+4. Simulation Study
+    - Use best fitting model
+
+MLR:
+    - Cholesky Decomp
+    - QR Decomp
+        - Householder
+    - LU Decomp
+    - Jacobi
